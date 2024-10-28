@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\bin\Debug\net8.0\Questao1.exe
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\bin\Debug\net8.0\Questao1.deps.json
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\bin\Debug\net8.0\Questao1.runtimeconfig.json
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\bin\Debug\net8.0\Questao1.dll
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\bin\Debug\net8.0\Questao1.pdb
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.AssemblyInfo.cs
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.sourcelink.json
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.dll
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\refint\Questao1.dll
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.pdb
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\Questao1.genruntimeconfig.cache
+C:\Users\leona\source\repos\listaoDeExercicios\Questao1\obj\Debug\net8.0\ref\Questao1.dll
