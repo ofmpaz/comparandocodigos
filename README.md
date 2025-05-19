@@ -15,7 +15,7 @@ Neste repositório, vamos desenvolver soluções para uma série de exercícios 
 ## 👥 Colaboradores
 
 - [Maria Andrade](https://github.com/ofmpaz) - Desenvolvedora Java Júnior
-- [Leonam Sousa](https://github.com/leonamxd) - Desenvolvedor C# Júnior
+- [Leonam Sousa](https://github.com/leonamxd) - Desenvolvedor C# Pleno
 
 ## 📝 Como Contribuir
 
